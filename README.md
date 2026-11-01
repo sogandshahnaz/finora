@@ -6,6 +6,7 @@ A modern, responsive personal finance dashboard built with **Next.js, TypeScript
 
 
 🌐 Live Demo: https://finora-ten-theta.vercel.app/
+
 💻 GitHub Repository: https://github.com/sogandshahnaz/finora
 ---
 
